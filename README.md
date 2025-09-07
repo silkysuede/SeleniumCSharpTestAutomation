@@ -7,4 +7,10 @@ It uses NUnit for the testing framework and employs Selenium for browser emulati
 
 It includes end-to-end testing for various user flows on the tutorial creator's website. 
 
-It tests things like logging in, clicking buttons, sending text, creating listings in a UI, searching for listings, deleting listings- things like that.
+It tests things like:
+  - Logging in
+  - Clicking buttons
+  - Sending text
+  - Creating listings in a UI
+  - Searching for listings
+  - Deleting listings
