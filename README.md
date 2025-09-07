@@ -1,4 +1,4 @@
-# SeleniumCSharpTestAutomation
+# End-to-End testing Suite
 I built this project by following tutorials online. 
 
 The purpose of this project is to show my ability to write automated tests in C#, as well as serve as a nice little intro for me into the world of automation testing. 
